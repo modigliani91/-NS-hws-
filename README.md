@@ -1,4 +1,4 @@
-# -NS-hws-
+# NS-hws
 Homeworks of Network Science course on Data Sciense Master Program in HSE
 
 Repository with initial assignments:
